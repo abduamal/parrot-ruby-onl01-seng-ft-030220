@@ -4,3 +4,7 @@
 def parrot(str)
 
 end
+
+def parrot
+  puts "Squawk!"
+end
