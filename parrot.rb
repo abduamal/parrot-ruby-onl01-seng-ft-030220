@@ -11,4 +11,6 @@ def parrot(phrase)
   return phrase
 end
 
-puts "Squawk!"
+
+phrase = "Squawk!"
+puts phrase
