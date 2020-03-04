@@ -4,7 +4,7 @@
 
 
 def parrot (phrase = "Squawk!")
-  chirp = phrase
+  bird = phrase
   puts (phrase)
-  chirp
+  bird
 end
