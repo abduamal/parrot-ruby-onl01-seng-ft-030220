@@ -2,9 +2,8 @@
 # returns the phrase
 
 def parrot(word = "Pretty Bird")
-  word = "Pretty Bird"
   puts word
-  return word
+  return "Pretty Bird"
 end
 
 def parrot()
